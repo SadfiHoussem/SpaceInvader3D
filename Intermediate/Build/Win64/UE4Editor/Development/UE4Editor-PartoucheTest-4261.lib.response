@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PartoucheTest-4261.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Projects\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\AIEnemyShip.cpp.obj"
+"D:\Projects\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\GameStatics.cpp.obj"
+"D:\Projects\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\PartoucheTest.cpp.obj"
+"D:\Projects\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\PlayerShip.cpp.obj"
+"D:\Projects\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\WaveController.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Projects\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PartoucheTest-4261.lib"

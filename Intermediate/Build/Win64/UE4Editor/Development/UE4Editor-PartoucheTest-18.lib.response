@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PartoucheTest-18.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\AIEnemyShip.cpp.obj"
+"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\GameStatics.cpp.obj"
+"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\PartoucheTest.cpp.obj"
+"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\PlayerShip.cpp.obj"
+"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\WaveController.cpp.obj"
+"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\AIEnemyShip.gen.cpp.obj"
+"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\GameStatics.gen.cpp.obj"
+"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\PartoucheTest.init.gen.cpp.obj"
+"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\PlayerShip.gen.cpp.obj"
+"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\WaveController.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\PartoucheTest\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\version2\PartoucheTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PartoucheTest-18.lib"

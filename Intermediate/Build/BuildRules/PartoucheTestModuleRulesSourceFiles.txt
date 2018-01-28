@@ -1,0 +1,3 @@
+D:\version3\PartoucheTest\Source\PartoucheTest\PartoucheTest.Build.cs
+D:\version3\PartoucheTest\Source\PartoucheTest.Target.cs
+D:\version3\PartoucheTest\Source\PartoucheTestEditor.Target.cs
